@@ -1,0 +1,4 @@
+"0",""
+"0","p.80 <- ggplot(data=data.set, aes(keystroke80, colour=name)) + "
+"0","  geom_histogram(fill=""white"")"
+"0","p.80"

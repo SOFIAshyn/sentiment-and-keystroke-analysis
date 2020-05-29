@@ -1,0 +1,7 @@
+"0",""
+"0","vec <- c()"
+"0","for (i in 1:nrow(data.set)) {"
+"0","  vec <- c(vec, sum(data.set[i, 3:10]))"
+"0","}"
+"0","data.set$sum.10.80 <- vec "
+"0",""

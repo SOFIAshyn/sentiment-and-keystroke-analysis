@@ -1,0 +1,2 @@
+"0","#Gay Marriage"
+"0","ggplot(data=plot.data %>% filter(plot.data$Theme=='GayMerriage'), aes(MaxKeystroke, colour=TypeofEssay)) + geom_histogram() + ggtitle(""Histogram of maximum keystroke over the essay on Gay Marriage"")"

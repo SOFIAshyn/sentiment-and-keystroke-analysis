@@ -1,0 +1,6 @@
+"0","library(readr)"
+"0","library(dplyr)"
+"0","library(ggplot2)"
+"0",""
+"0","data.set <- read.table(""dataLA.prn"", header=TRUE, na.strings=""*"")"
+"0","data.set"

@@ -1,0 +1,3 @@
+"0","model_pred <- predict(logistic.model)"
+"0","model.res <- data.set$essay_sentbin - model_pred"
+"0","plot(model_pred, model.res)"

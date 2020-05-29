@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589716879026.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "893481103",
+    "id" : "2DFBB303",
+    "lastKnownWriteTime" : 1589717146,
+    "last_content_update" : 1589717146830,
+    "path" : "~/Desktop/LAProj/dataLA.prn",
+    "project_path" : "dataLA.prn",
+    "properties" : {
+        "cursorPosition" : "1,60",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

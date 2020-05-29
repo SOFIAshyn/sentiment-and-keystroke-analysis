@@ -1,0 +1,3 @@
+"0",""
+"0","#ReviewAMT"
+"0","ggplot(data=plot.data %>% filter(plot.data$Theme=='ReviewAMT'), aes(MaxKeystroke, colour=TypeofEssay)) + geom_histogram() + ggtitle(""Dependency of maximum keystroke over the essay on Review and its sentiment"")"

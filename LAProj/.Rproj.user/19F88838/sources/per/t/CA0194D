@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589716547734.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3768374654",
+    "id" : "CA0194D",
+    "lastKnownWriteTime" : 1589716788,
+    "last_content_update" : 1589716788,
+    "path" : "~/Desktop/LAProj/dataLA.csv",
+    "project_path" : "dataLA.csv",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "2758"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

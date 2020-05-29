@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589715846864.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1011841330",
+    "id" : "55EC968A",
+    "lastKnownWriteTime" : 1589993392,
+    "last_content_update" : 1589993392143,
+    "path" : "~/Desktop/LAProj/main.Rmd",
+    "project_path" : "main.Rmd",
+    "properties" : {
+        "cursorPosition" : "210,0",
+        "scrollLine" : "207",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,2 @@
+"0",""
+"0","ggplot(data=plot.data %>% filter(plot.data$Theme=='GayMerriage'), aes(x = MaxKeystroke, y =Sentiment, colour=TypeofEssay)) + geom_point() + ggtitle(""Dependency of maximum keystroke over the essay on Gay Marriage and its sentiment"")"
